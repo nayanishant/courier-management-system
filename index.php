@@ -63,7 +63,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
             <div class="col-md-12">
                 <h2 style="color: #273c75;">Login</h2>
                 <p style="color:#e84118;">Please Fill Your ⮯⮯</p>
-                <!-- <?php echo $error; ?> -->
                 <form action="" method="post">
                     <div class="form-group">
                         <label>Email Address</label>
